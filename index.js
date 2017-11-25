@@ -7,3 +7,4 @@ function whisper(string)
   return string.toLowerCase()
 }
 console.log('Hellu milo'.whisper)
+console.log('yahelu'.shout)
