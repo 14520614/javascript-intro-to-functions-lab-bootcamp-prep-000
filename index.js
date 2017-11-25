@@ -1,3 +1,7 @@
-function shout(string) {
-  return string
-}
+var uppercase = "HELLO!"
+ 
+uppercase.toUpperCase() === uppercase // true
+ 
+var lowercase = 'hello!'
+ 
+lowercase.toLowerCase() === lowercase // true
